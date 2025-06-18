@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #0d0d0d;
+    color: #fff;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 40px 0;
+    border-bottom: 2px solid #aa0000;
+}
+
+.profile-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 4px solid #aa0000;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    color: #ff1a1a;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: #cccccc;
+}
+
+section {
+    padding: 30px 0;
+    border-bottom: 1px solid #222;
+}
+
+h2 {
+    color: #ff1a1a;
+    margin-bottom: 15px;
+    border-left: 5px solid #aa0000;
+    padding-left: 10px;
+}
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skills-list span {
+    background-color: #1a1a1a;
+    border: 1px solid #aa0000;
+    color: #ff4d4d;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.skills-list span:hover {
+    background-color: #aa0000;
+    color: #fff;
+}
+
+.project-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.project-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #333;
+    transition: 0.3s;
+}
+
+.project-list li:hover {
+    color: #ff4d4d;
+}
+
+a {
+    color: #ff4d4d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #888;
+    border-top: 1px solid #1a1a1a;
+}
