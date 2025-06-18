@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built with HTML and CSS. It represents me as a Computer Engineering student, developer, and graphics designer — all in a clean black and red theme.
 
-![screenshot](images/preview.jpg) <!-- Optional: Replace with actual screenshot of your site -->
+![screenshot](images/preview.jpg)
 
 ---
 
