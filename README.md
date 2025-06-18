@@ -1,4 +1,4 @@
-# 🔥 Personal Portfolio Website - Aditya A S
+# 🔥 Personal Portfolio Website 
 
 This is my personal portfolio website built with HTML and CSS. It represents me as a Computer Engineering student, developer, and graphics designer — all in a clean black and red theme.
 
