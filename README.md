@@ -17,5 +17,5 @@ This is my personal portfolio website built with HTML and CSS. It represents me 
 
 ---
 
-## 📂 Project Structure
+
 
